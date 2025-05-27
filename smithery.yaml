@@ -1,0 +1,7 @@
+mcp:
+  name: Crypto MCP
+  description: CoinGecko üzerinden kripto fiyatı sorgulayan MCP agent
+  version: 1.0.0
+  transport:
+    type: http
+    endpoint: /rpc 
